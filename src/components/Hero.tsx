@@ -54,12 +54,12 @@ export const Hero: React.FC<HeroProps> = ({ onExplorePlatform, onViewDemo }) => 
           </div>
 
           {/* Developer Credit */}
-          <div className="flex items-center justify-center gap-2 text-xs text-slate-500 font-medium">
-            <span>Concept &amp; Prototype by Rahab Asif</span>
+          <div className="flex flex-wrap items-center justify-center gap-2 text-xs text-slate-500 font-medium">
+            <span>Concept &amp; Prototype by <strong className="text-slate-800">Rahab Asif</strong></span>
             <span aria-hidden="true">·</span>
-            <span>BS Artificial Intelligence Student</span>
+            <span className="text-[#1769AA] font-semibold">AI Engineer | AI Content Engineer | AI Entrepreneur</span>
             <span aria-hidden="true">·</span>
-            <span className="text-[#1769AA]">Independent Software Research</span>
+            <span className="text-slate-600">Proposed AI-powered solution for SM Foods (GIBS Pakistan)</span>
           </div>
         </div>
 

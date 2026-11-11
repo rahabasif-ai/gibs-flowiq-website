@@ -26,8 +26,8 @@ export const IndustryShowcase: React.FC = () => {
         <div className="mb-10 p-4 rounded-xl bg-white border border-slate-200/80 shadow-2xs flex items-start gap-3.5">
           <Info className="w-5 h-5 text-[#1769AA] shrink-0 mt-0.5" />
           <div className="text-xs leading-relaxed text-slate-600">
-            <span className="font-semibold text-[#142B45]">Industry Case Study Context: </span>
-            This research and software prototype uses the operational model of large-scale packaged food operations (such as SM Foods / GIBS Pakistan FMCG distribution categories) as an exploratory reference framework. All imagery, product names, batches, and metrics shown are generic illustrative representations created for software demonstration and independent research.
+            <span className="font-semibold text-[#142B45]">Proposed Solution for SM Foods (GIBS Pakistan): </span>
+            GIBS FlowIQ is an independently developed AI-powered software proposal tailored to the product categories, warehousing hubs, and wholesale distribution logistics of SM Foods (GIBS Pakistan). All imagery, product mockups, and operational numbers shown are generic illustrative representations created for prototype evaluation. This project is an independent engineering proposal and does not claim official endorsement, partnership, or commercial adoption.
           </div>
         </div>
 

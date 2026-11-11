@@ -36,13 +36,13 @@ export const AboutDeveloper: React.FC<AboutDeveloperProps> = ({ onContactClick }
                     <h3 className="text-lg font-bold text-[#142B45]">Rahab Asif</h3>
                     <div className="text-xs font-semibold text-[#1769AA] flex items-center gap-1.5 mt-0.5">
                       <GraduationCap className="w-4 h-4" />
-                      <span>BS Artificial Intelligence Student</span>
+                      <span>AI Engineer | AI Content Engineer | AI Entrepreneur</span>
                     </div>
                   </div>
                 </div>
 
                 <div className="text-xs text-slate-600 leading-relaxed">
-                  Passionate about bridging academic machine learning research with mission-critical industrial software systems.
+                  Dedicated to applying artificial intelligence, machine learning, and scalable systems engineering to solve real-world industrial and commercial problems.
                 </div>
               </div>
 

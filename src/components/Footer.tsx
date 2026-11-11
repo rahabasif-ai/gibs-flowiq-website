@@ -29,8 +29,13 @@ export const Footer: React.FC = () => {
               Intelligent Decisions. Smarter Distribution. Better Business Visibility. An independent applied machine learning prototype for the food manufacturing and distribution industry.
             </p>
 
-            <div className="text-xs text-slate-600 font-medium pt-1">
-              Developed as an independent project by <strong className="text-[#142B45]">Rahab Asif</strong> (BS Artificial Intelligence Student).
+            <div className="text-xs text-slate-600 font-medium pt-1 space-y-1">
+              <div>
+                Developed by <strong className="text-[#142B45]">Rahab Asif</strong> (AI Engineer | AI Content Engineer | AI Entrepreneur).
+              </div>
+              <div className="text-slate-500">
+                Proposed AI-powered solution for SM Foods (GIBS Pakistan).
+              </div>
             </div>
           </div>
 
@@ -79,7 +84,7 @@ export const Footer: React.FC = () => {
               Project Classification
             </h4>
             <p className="text-xs text-slate-500 leading-relaxed">
-              Applied Artificial Intelligence Capstone &amp; Industrial Prototype. Designed to demonstrate practical machine learning utility in supply chain and distribution operations.
+              Applied Artificial Intelligence &amp; Industrial Distribution Platform. Designed to demonstrate practical machine learning utility in food manufacturing supply chain and wholesale distribution operations.
             </p>
             <div className="pt-2">
               <button
@@ -107,11 +112,11 @@ export const Footer: React.FC = () => {
             &copy; {new Date().getFullYear()} GIBS FlowIQ. Independent Software Project by Rahab Asif. All rights reserved.
           </div>
           <div className="flex items-center gap-4">
-            <span>Academic AI Research</span>
+            <span>Enterprise Food Logistics</span>
             <span>·</span>
             <span>Light Theme Enterprise Design</span>
             <span>·</span>
-            <span>Prototype v0.8</span>
+            <span>Standalone Distribution Edition</span>
           </div>
         </div>
       </div>
