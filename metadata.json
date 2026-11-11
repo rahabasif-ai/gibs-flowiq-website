@@ -1,0 +1,7 @@
+{
+  "name": "GIBS FlowIQ",
+  "description": "AI-Powered Demand Forecasting & Intelligent Distribution Management System for the food manufacturing and distribution industry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
